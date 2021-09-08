@@ -3,3 +3,4 @@ WPU-STORY
 -Konsisten untuk membuat konten setiap hari
 -Membuat platfrom untuk mengelolah video
 -Membuat forum diskusi
+-Membuat login
